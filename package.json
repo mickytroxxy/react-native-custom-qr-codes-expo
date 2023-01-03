@@ -28,7 +28,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.8.1"
   },
   "peerDependencies": {
     "expo": "~47.0.9",
